@@ -1,6 +1,6 @@
 ### 𝗛𝗶, 𝗧𝗵𝗲𝗿𝗲 👋
 #### 한동대학교 휴학중
-#### 사회복무요웡 2022.08.18 ~ 2024.05.17 (ING~)
+#### 사회복무요웡 2022.08.18 ~ 2024.05.17 (ing~)
 
 <!--
 **cypark728/cypark728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
