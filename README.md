@@ -1,6 +1,7 @@
 ### 𝗛𝗶, 𝗧𝗵𝗲𝗿𝗲 👋
 #### 한동대학교 재학중
-#### 사회복무요원 2022.08.18 ~ 2024.05.17
+#### 한동대학교 컴퓨터공학 심화 2019.02.27 ~ 2025.02.21
+#### 한동대학교 딥러닝 연구실 학부연구생 2021 ~ 2022.06
 
 <!--
 **cypark728/cypark728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
